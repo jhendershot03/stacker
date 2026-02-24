@@ -1,4 +1,3 @@
-"""
 Astrophotography Image Stacker (v4 - Large Image Edition)
 ===========================================================
 Key fix: alignment is computed on a downsampled copy (max 1500px wide),
@@ -15,4 +14,3 @@ Usage:
     python stack_images.py --input ./frames --output stacked.tif --debug
 
 Supported formats: .jpg, .jpeg, .png, .tif, .tiff, .fit, .fits
-"""
